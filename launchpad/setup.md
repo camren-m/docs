@@ -1,2 +1,3 @@
-# Setting up a Launchpad repository
+# Launchpad
+## Getting Started
 Do something!
