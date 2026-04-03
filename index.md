@@ -1,1 +1,2 @@
-- [Launchpad]("./launchpad")
+# Projects
+- [Launchpad](./launchpad)
